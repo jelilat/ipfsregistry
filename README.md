@@ -55,3 +55,9 @@ To confirm if a cid has been uploaded, run:
 ```
 $ registry confirm <cid>
 ```
+
+## Smart Contract
+
+registry smart contract is currently deployed to [rinkeby testnet](https://rinkeby.etherscan.io/address/0x9f8f2cb31a83d9b1008b5d829717bcea2bf44e45).
+
+You can also find the smart contract code [here](https://github.com/jelilat/ipfs_registry)
