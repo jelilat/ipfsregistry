@@ -24,7 +24,7 @@ For help, run: `registry`
     $ registry cidinfo <cid>                       //get the info of a cid.
     $ registry confirm <cid>                       //confirm a cid.
 
-    ```
+```
 
 To upload a file to ipfs and store the cid to the registry smart contract, run:
 ```
