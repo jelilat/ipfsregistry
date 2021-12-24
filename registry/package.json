@@ -1,7 +1,7 @@
 {
   "name": "registry",
   "version": "1.0.0",
-  "description": "A command line tool to upload files to IPFS and store in a smart contract",
+  "description": "A command line tool to upload files to IPFS and store the cid in a smart contract",
   "main": "bin/index.js",
   "bin": "bin/index.js",
   "scripts": {
