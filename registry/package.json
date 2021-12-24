@@ -1,0 +1,24 @@
+{
+  "name": "registry",
+  "version": "1.0.0",
+  "description": "A command line tool to upload files to IPFS and store in a smart contract",
+  "main": "bin/index.js",
+  "bin": "bin/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jelilat Anofiu",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.4",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "ethers": "^5.5.2",
+    "fs": "^0.0.1-security",
+    "ipfs-core": "^0.13.0",
+    "path": "^0.12.7",
+    "web3": "^1.6.1"
+  }
+}
