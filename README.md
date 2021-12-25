@@ -7,7 +7,7 @@ This is a simple command line tool that uploads a file to ipfs and stores the CI
 ```
 $ git clone https://github.com/jelilat/ipfsregistry
 $ cd ipfsregistry/registry
-$ yarn add registry --ignore-engines
+$ yarn global add registry --ignore-engines
 $ yarn build
 
 ```
